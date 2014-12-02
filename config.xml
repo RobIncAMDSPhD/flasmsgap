@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="ca.cloud59.sanctissimissa" version="1.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Sanctissimissa</name>
+<widget id="ca.cloud59.flasmsgap" version="1.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Flasmsgap</name>
     <description>
-        Hello Word sample application that responds to the deviceready event and loads holy Mass in the Extraordinary Form from missa.cloud59.ca
+		Containerised Flasms
     </description>
     <author email="robin.cheung@cloud59.ca" href="http://robin.cheung.mba2003.biz">
         Robin L. M. Cheung
