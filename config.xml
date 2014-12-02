@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="ca.cloud59.flasms" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="ca.cloud59.flasms" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>flasms</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="Robin.Cheung@Cloud59.ca" href="http://Robin.Cheung.MBA2003.biz">
+        Robin L. M. Cheung, BSc, MBA
     </author>
     <content src="index.html" />
     <access origin="*" />
